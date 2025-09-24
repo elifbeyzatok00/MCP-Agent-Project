@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "postgres": {
+      "command": "docker",
+      "args": ["exec", "-i", "mcp_postgres", "server"]
+    },
+    "slack": {
+      "command": "docker",
+      "args": ["exec", "-i", "mcp_slack", "server"]
+    },
+    "git": {
+      "command": "docker",
+      "args": ["exec", "-i", "mcp_git", "server"]
+    }
+  }
+}
