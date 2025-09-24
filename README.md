@@ -151,3 +151,17 @@ services:
 ## Lisans
 
 MIT License
+
+
+Tabii! İşte README dosyana ekleyebileceğin kaynakça paragrafı, senin verdiğin MCP server bağlantıları ve ek olarak daha önce bahsettiğimiz resmi MCP dokümanları da dahil edilmiştir:
+
+
+## Kaynakça
+
+Bu proje, Model Context Protocol (MCP) üzerine inşa edilmiştir ve aşağıdaki kaynaklardan yararlanılarak geliştirilmiştir:
+
+* **MCP Resmi Sunucu Entegrasyonları:** [MCP Servers GitHub](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
+* **Git Tool Entegrasyonu:** [MCP Git Server](https://github.com/modelcontextprotocol/servers/tree/main/src/git)
+* **Slack Tool Entegrasyonu:** [MCP Slack Server (archived)](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack)
+* **PostgreSQL Tool Entegrasyonu:** [MCP Postgres Server (archived)](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres)
+* **MCP Örnek Projeler ve Kullanıcı Dokümantasyonu:** [MCP Examples](https://modelcontextprotocol.io/examples), [MCP Clients](https://modelcontextprotocol.io/clients)
