@@ -146,15 +146,9 @@ services:
 * PostgreSQL hatası → URL, kullanıcı ve şifreyi doğrulayın.
 * Git MCP → Host dosya yolları doğru mount edilmiş olmalı.
 
-
-
 ## Lisans
 
 MIT License
-
-
-Tabii! İşte README dosyana ekleyebileceğin kaynakça paragrafı, senin verdiğin MCP server bağlantıları ve ek olarak daha önce bahsettiğimiz resmi MCP dokümanları da dahil edilmiştir:
-
 
 ## Kaynakça
 
